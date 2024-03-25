@@ -1,0 +1,5 @@
+QUANTITY = ["Quantity", "QUANTITY"]
+NAME = ["Card Name", "NAME"]
+SETNAME = ["Edition", "SETNAME"]
+FOIL = ["Foil", "FINISH"]
+IS_FOIL = ["etched", "foil"]
